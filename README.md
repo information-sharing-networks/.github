@@ -22,4 +22,4 @@ We have a shared vision of developing a repeatable toolkit to build configurable
 To realise our objectives we are building an open, scalable, extensible, repeatable and sustainable information sharing toolkit.
 
 - [Signals](https://github.com/information-sharing-networks/signals)
-- Collaboration Agreement
+- Governance framework (TBD)
