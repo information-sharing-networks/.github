@@ -15,7 +15,7 @@ We have a shared vision of developing a repeatable toolkit to build configurable
 - minimise data - reducing duplication in the administration and storage of and inference over information
 - maximise local processing - to help remove unnecessary middlemen, centralisation and data lakes
 - provide more scalable and extensible alternatives to the current friction filled share mechanisms and instruments
-reduce the impact of IT on the environment
+- reduce the impact of IT on the environment
 
 # Components
 
