@@ -8,7 +8,7 @@ A collaborative alliance across government, industry and academia building an op
 
 ## Important repositories
 
-### Signals
+### 💡 Signals
 
 #### Overarching protocol
 
@@ -18,6 +18,6 @@ A collaborative alliance across government, industry and academia building an op
 
 - [Border signals protocol](https://github.com/information-sharing-networks/border-signals)
 
-### Governance frameworks
+### 💡 Governance frameworks
 
 - [Rules of Engagement]()
