@@ -8,7 +8,11 @@ A collaborative alliance across government, industry and academia building an op
 
 [Introduction to Information Sharing Networks](https://github.com/information-sharing-networks/.github)
 
-## Important repositories
+## Important resources and repositories
+
+### Glossary
+
+- [Glossary of terms](https://github.com/information-sharing-networks/.github/blob/main/glossary.md)
 
 ### 💡 Signals
 
