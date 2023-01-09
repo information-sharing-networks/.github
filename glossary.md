@@ -8,6 +8,17 @@ N.B. This glossary does not defined terms from specific domains - it defines ter
 
 ## Terms
 
+### [Claim](#claim)
+
+**Typical definitions**
+
+TBD
+
+**Context**
+
+TBD
+
+---
 ### [Event](#event)
 
 **Typical definitions**
