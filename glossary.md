@@ -52,7 +52,9 @@ TBD
 **Context**
 
 - [Events](#event) are represented as signals to make them accessible via shared (distributed) messaging infrastructure
-- A signal may represent part of an event, multiple events or any processing over or opinion created through event analysis
+- Signals permit organisations to minimise information share volume while maximising the sharing of expertise
+- There is low friction/effort in representing an event as a signal
+- A signal may represent part of an event, multiple events or the result of any processing over information or events
 - A signal is typically not a large footprint of raw information
 - A signal is typically:
   - An attribute of an event or information element
