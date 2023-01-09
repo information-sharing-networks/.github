@@ -92,6 +92,6 @@ N/A - this is a 'composite concept'.
 
 **Context**
 
-A datum associated with a given [subject](#subject) that has been demonstrated to be accurate or true to a required level of due diligence.
+- A datum associated with a given [subject](#subject) that has been demonstrated to be accurate or true to a required level of due diligence
 
 
