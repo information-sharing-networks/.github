@@ -28,6 +28,15 @@ TBD
 TBD
 
 ---
+### Event Producer
+
+**Typical definitions***
+TBD
+
+**Context**
+TBD
+
+---
 ### Signal
 
 **Typical definitions**
