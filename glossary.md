@@ -16,7 +16,7 @@ N.B. This glossary does not defined terms from specific domains - it defines ter
 
 **Context**
 
-Events happen in endless different domains and are typically trapped in a system or silo or happen in the physical world. There are then many options to capture it digitally, or to represent and transmit to potentially interested Event Consumers.
+Events happen in endless different domains and are typically trapped in a system or silo or happen in the physical world. There are then many options to capture them digitally, or to represent and transmit them to potentially interested Event Consumers.
 
 ---
 ### Event Consumer
