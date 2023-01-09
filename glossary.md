@@ -16,7 +16,7 @@ N.B. This glossary does not defined terms from specific domains - it defines ter
 
 **Context**
 
-Events happen in endless different domains and are typically trapped in a system or silo or happen in the physical world. There are then many options to capture them digitally, or to represent and transmit them to potentially interested Event Consumers.
+Events happen in endless different domains and are generated or captured in a system or happen in the physical world. There are then many options to capture them digitally, or to represent and transmit them to potentially interested Event Consumers. Events provide a useful mechanism for auditing and permit useful architecture designs raising the level of abstraction and increasing the possibility of a shared understanding of how a system works without intimate knowledge of internal design.
 
 ---
 ### Event Consumer
