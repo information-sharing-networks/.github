@@ -70,6 +70,8 @@ TBD
 - Signals permit organisations to minimise information share volume while maximising the sharing of expertise
 - Signals are typically self contained - they usually do not require additional out of band information to be made available
 - Signals reduce the need for complex ontologies and reduce semantics leaking over boundaries due to heir more precise/targetted deisgn and footprint
+- Signals may be anonymous/opaque - identity of the producer/provider may be omitted
+- Signals may omit any mention of the due diligence behind insight or opinions expressed
 - The inherent properties in signals permit consuming parties to make their own minds up on whether and how to use them for example whether aggregation or corroboration are necessary
 - Signals may move bi-directionally between any number of entities participating in a network
 - There is low friction/effort in representing an event as a signal
