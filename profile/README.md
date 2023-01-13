@@ -1,4 +1,4 @@
-⚠️ *This and all associated organisational repositories are a part of the Ecosystem of Trust pilots initiative at this time and as such this is all innovation based work and thinking. Sensitive documents and information must not be added to the repositories within this Github organisation.*
+⚠️ *This and all associated organisational repositories are a part of the Ecosystem of Trust pilots initiative at this time and as such this is all innovation based work and thinking. This is a 📢 **public** repository - viewable by all and editable by those who have been invited in. Sensitive documents and information must not be added to the repositories within this Github organisation.*
 
 # Information Sharing Networks
 
