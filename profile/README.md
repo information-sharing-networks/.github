@@ -10,6 +10,10 @@ A collaborative alliance across government, industry and academia building an op
 
 ## Important resources and repositories
 
+### Getting started
+
+- [Getting started](https://github.com/information-sharing-networks/.github/blob/main/getting-started.md)
+
 ### Glossary
 
 - [Glossary of terms](https://github.com/information-sharing-networks/.github/blob/main/glossary.md)
