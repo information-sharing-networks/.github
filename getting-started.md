@@ -6,7 +6,7 @@ Github is primarily used to help software developers manage their projects and, 
 The features we will mainly be using are:
 
 * The github Editor to capture project documentation - this can be used in a browser (see below)
-* The github Issues will be used for discussions.
+* Github [Discussions](https://github.com/information-sharing-networks/.github/discussions) will be used for discussions.
 * if we create any technical documentation we'll look at using [github Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY) to create a website.
 
 There is a separate [project](https://github.com/ecosystem-of-trust-interoperability) run by the Ecosystem of Trust team used to collect data related to the EOT Interoperability Working group.  This project is not visible to the public - please contact one of the EOT team if you would like to join.
