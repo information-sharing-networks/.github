@@ -21,7 +21,7 @@ If you are not a member you are welcome to submit a pull request containing your
 # Discussions
 Use the [Discussions](https://github.com/information-sharing-networks/.github/discussions) tab to create new discussions.  Anyone with a github account can contribute.
 
-# things you should not share
+# Things you should not share
 This is a public website and some things should not be shared here (e.g account credentials, unreleased policy)
 Although this [guidance](https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed) was written for software developers, the same principles apply here.
 
