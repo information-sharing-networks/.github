@@ -19,7 +19,7 @@ Click the pencil icon at the top right of the document title to start editing.  
 If you are not a member you are welcome to submit a pull request containing your suggested changes. 
 
 # Discussions
-Use the [issues](https://github.com/information-sharing-networks/.github/discussions) tab to create new discussions.  Anyone with a github account can contribute.
+Use the [Discussions](https://github.com/information-sharing-networks/.github/discussions) tab to create new discussions.  Anyone with a github account can contribute.
 
 # things you should not share
 This is a public website and some things should not be shared here (e.g account credentials, unreleased policy)
