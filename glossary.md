@@ -4,7 +4,7 @@
 
 An industry, trade expert, standards body and government collaborative glossary of terms.
 
-N.B. This glossary does not defined terms from specific domains - it defines terms for the build blocks of a domain agonstic information sharing network capability.
+N.B. This glossary does not defined terms from specific domains - it defines terms for the build blocks of a domain agnostic information sharing network capability.
 
 ## Terms
 
