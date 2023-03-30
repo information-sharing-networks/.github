@@ -52,6 +52,15 @@ TBD
 TBD
 
 ---
+### Information Sharing Network (ISN)
+
+**Typical Definition**
+A multilateral information sharing network or ecosystem where participants contribute and consume information over a range of possible information exchange infrastructures.
+
+**Context**
+TBD
+
+---
 ### [Signal](#signal)
 
 **Typical definitions**
