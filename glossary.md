@@ -73,6 +73,12 @@ TBD
 
 > 'The fundamental quantity of representing some information'.
 
+**Our definition**
+
+Signals are simple messages that can be exchanged between organisations to indicate that an action has been taken or that something has been decided or agreeed upon.
+
+With signals insight is moved (the result of deploying expertise over raw data) not the raw data itself. This has many benefits.
+
 **Context**
 
 - [Events](#event) are represented as signals to make them accessible via shared (distributed) messaging infrastructure
