@@ -45,7 +45,7 @@ TBD
 ---
 ### Event Producer
 
-**Typical definitions***
+**Typical definitions**
 TBD
 
 **Context**
