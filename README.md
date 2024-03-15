@@ -12,7 +12,7 @@ Identity and information assurance are two examples of where the value in inter 
 
 ## [Vision](#vision)
 
-We have a shared vision of developing a repeatable toolkit to build configurable, scalable, sustainable and privacy enabled networks (or ecosystems) for participants who share common domains of interest and are motivated to share intelligently generated insight in the form of [signals](glossary.md#signal) about those domains, but who want neither to share a common information infrastructure nor to rely on fragile point-to-point messaging structures. This toolkit will be model, standard and technology agnostic.
+We have a shared vision of improving the state of play in the coordination of expertise. To get there we are developing a repeatable toolkit to build configurable, scalable, sustainable and privacy enabled networks (or ecosystems) for participants who share common domains of interest and are motivated to share insight in the form of [signals](glossary.md#signal) about those domains, but who want neither to share a common information infrastructure nor to rely on fragile point-to-point messaging structures. This toolkit will be model, standard and technology agnostic.
 
 ## [Objectives](#objectives)
 
