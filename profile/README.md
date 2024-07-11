@@ -26,7 +26,7 @@ A collaborative alliance across government, industry and academia building an op
 
 #### Implementations
 
-- [Border signals protocol](https://github.com/information-sharing-networks/border-signals)
+- Information Sharing Networks - [demonstrator](https://github.com/information-sharing-networks/isn-ref-impl) 
 
 ### 💡 Governance frameworks
 
