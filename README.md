@@ -29,5 +29,4 @@ To realise our objectives we are building an open, scalable, extensible, repeata
 
 - [Glossary](glossary.md)
 - [Signals](https://github.com/information-sharing-networks/signals)
-- Information exchange infrastructure (TBD)
-- Governance framework (e.g. The Collaboration Agreement) - (TBD)
+- [Governance and data sharing framework](https://github.com/information-sharing-networks/Framework)
