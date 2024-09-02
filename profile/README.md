@@ -15,7 +15,7 @@ The next dependency is for network participants to have a site for each of the m
 
 
 ## Information Sharing Network Framework Agreement
-The Framework Agreement is a multi-party sharing instrument that allows information to be shared between groups of public and private bodies with a shared interest or objective. It reduces the reliance on traditional point-to-point agreements between individual actors.
+The [Framework Agreement](https://github.com/information-sharing-networks/Framework) is a multi-party sharing instrument that allows information to be shared between groups of public and private bodies with a shared interest or objective. It reduces the reliance on traditional point-to-point agreements between individual actors.
 
 The Framework Agreement makes it easier for organisations to cooperate by minimising the paperwork needed when a new information sharing requirement is identified.
 
@@ -39,5 +39,5 @@ For detailed instructions on how to set up a site please see link: https://githu
 ## Signals
 Signals are created using an Indieweb Microformat 2 'event' post type by calling the ISN site 'micropub' endpoint, internally this creates a 'signal' compliant with the information-sharing-network signals protocol.
 
-- Deatials on the signals and protocols can be found here: [Signal protocol](https://github.com/information-sharing-networks/signals)
+- Details on the signals and protocols can be found here: [Signal protocol](https://github.com/information-sharing-networks/signals)
 
