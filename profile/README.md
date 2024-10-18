@@ -41,3 +41,11 @@ Signals are created using an Indieweb Microformat 2 'event' post type by calling
 
 - Details on the signals and protocols can be found here: [Signal protocol](https://github.com/information-sharing-networks/signals)
 
+## BTD Signal Definitions
+We are running a number of Border Trade Demonstrators (BTDs) sites where signals are being received. 
+
+-  Details on the signal definition for the BTDs can be found here:
+https://github.com/border-trade-demonstrators/btd-1/blob/main/isn-btd-1.edn
+
+
+
