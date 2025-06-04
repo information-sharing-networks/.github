@@ -1,4 +1,4 @@
-⚠️ *This and all associated organisational repositories are a part of the Ecosystem of Trust pilots initiative at this time and as such this is all innovation based work and thinking. This is a 📢 **public** repository - viewable by all and editable by those who have been invited in. Sensitive documents and information must not be added to the repositories within this Github organisation.*
+
 
 # Information Sharing Networks
 
@@ -29,23 +29,8 @@ The Standard Network Establishment Agreement includes principles for operating a
 
 The simpler Accelerated Network Establishment Agreement can be used where a lighter-touch governance arrangement is appropriate.
 
-## Technology dependencies to set up ISN
-Every organisation participating in an ISN has a site (with their own URL) to which they can publish signals on to. 
-
-Participants of the sites can also grant permissions to one another so that signals can be exchanged between the sites. 
-
-For detailed instructions on how to set up a site please see link: https://github.com/information-sharing-networks/isn-ref-impl
-
-## Signals
-Signals are created using an Indieweb Microformat 2 'event' post type by calling the ISN site 'micropub' endpoint, internally this creates a 'signal' compliant with the information-sharing-network signals protocol.
-
-- Details on the signals and protocols can be found here: [Signal protocol](https://github.com/information-sharing-networks/signals)
-
-## BTD Signal Definitions
-We are running a number of Border Trade Demonstrators (BTDs) sites where signals are being received. 
-
--  Details on the signal definition for the BTDs can be found here:
-https://github.com/border-trade-demonstrators/btd-1/blob/main/isn-btd-1.edn
+## Reference implementations
+The initial implementation can be found in the isn-ref-impl repo.  version 2 can be found in signalsd.
 
 
-
+⚠️ *This and all associated organisational repositories were originall created as part of the Ecosystem of Trust pilots initiative and is all innovation based work and thinking. This is a 📢 **public** repository - viewable by all and editable by those who have been invited in. Sensitive documents and information must not be added to the repositories within this Github organisation.*
