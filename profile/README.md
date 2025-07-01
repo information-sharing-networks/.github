@@ -12,7 +12,7 @@ The network sharing infrastructure is very lightweigt and is designed so that da
 The initial implementation can be found in the [isn-ref-impl](https://github.com/information-sharing-networks/isn-ref-impl) repo.  Version 2 can be found in [signalsd](https://github.com/information-sharing-networks/signalsd)
 
 
-# Information Sharing Network Framework Agreement
+# Information Sharing Network - Framework Agreement
 To support the deployment of this type of a technology we have created a [Framework Agreement](https://github.com/information-sharing-networks/Framework) that allows information to be exchanged between groups of public and private orgnaisations with a shared interest or objective. 
 
 The Framework Agreement makes it easier for organisations to cooperate by minimising the paperwork needed when a new information sharing requirement is identified.
