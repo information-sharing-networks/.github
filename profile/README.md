@@ -19,4 +19,4 @@ The Framework Agreement makes it easier for organisations to cooperate by minimi
 
 
 
-⚠️ The repositories below were originally created as part of the UK Government's Ecosystem of Trust pilots initiative.   It is a **public** repository - viewable by all and editable by those who have been invited in. Sensitive documents and information must not be added to the repositories within this Github organisation.*
+⚠️ *The repositories below were originally created as part of the UK Government's Ecosystem of Trust pilots initiative.   The content is viewable by all and editable by those who have been invited in. Sensitive documents and information must not be added to the repositories within this Github organisation.*
